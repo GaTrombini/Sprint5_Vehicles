@@ -7,3 +7,5 @@ Este aplicativo web é projetado para ajudar na análise exploratória de dados 
 
 O aplicativo permite gerar visualizações interativas dos dados, incluindo histogramas e gráficos de dispersão. Você pode gerar um histograma da coluna "odometer" e um gráfico de dispersão que relaciona o "odometer" com o "price" dos veículos.
 Com uma interface intuitiva, os usuários podem clicar em botões para visualizar diferentes tipos de gráficos baseados nos dados fornecidos.
+
+Link: https://sprint5-vehicles-0q2z.onrender.com
